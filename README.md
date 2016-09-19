@@ -1,2 +1,5 @@
 # hello-world
-normal
+
+Hello!
+
+I'm making changes to practice on GitHub!
